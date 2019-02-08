@@ -146,21 +146,6 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>218</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>0</Address>
-          <ByteObject>0</ByteObject>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>0</BreakIfRCount>
-          <Filename>main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression></Expression>
-        </Bp>
-        <Bp>
-          <Number>1</Number>
-          <Type>0</Type>
           <LineNumber>260</LineNumber>
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
@@ -174,7 +159,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>2</Number>
+          <Number>1</Number>
           <Type>0</Type>
           <LineNumber>288</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -231,10 +216,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>81</ColumnNumber>
+      <ColumnNumber>54</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>19</CurrentLine>
+      <TopLine>476</TopLine>
+      <CurrentLine>496</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -306,10 +291,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>17</ColumnNumber>
+      <ColumnNumber>5</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>42</TopLine>
-      <CurrentLine>57</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>21</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\display.c</PathWithFileName>
       <FilenameWithoutPath>display.c</FilenameWithoutPath>
@@ -1713,9 +1698,9 @@
       <Documents>
         <Doc>
           <Name>.\main.c</Name>
-          <ColumnNumber>81</ColumnNumber>
-          <TopLine>1</TopLine>
-          <CurrentLine>19</CurrentLine>
+          <ColumnNumber>54</ColumnNumber>
+          <TopLine>476</TopLine>
+          <CurrentLine>496</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\temp.c</Name>
@@ -1731,9 +1716,9 @@
         </Doc>
         <Doc>
           <Name>.\display.c</Name>
-          <ColumnNumber>17</ColumnNumber>
-          <TopLine>42</TopLine>
-          <CurrentLine>57</CurrentLine>
+          <ColumnNumber>5</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>21</CurrentLine>
         </Doc>
         <Doc>
           <Name>STC15FXXXX.H</Name>
